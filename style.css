@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: saddlebrown;
+    color: aliceblue;
+    width: 20%;
+    margin: 10px auto;
+
+}
+.wrapper {
+    border: 5px solid red;
+    background-color: black;
+    padding: 20px;
+}
+body {
+    background-color: darkcyan;
+}
+
+.item{
+    background-color: aqua;
+}
+
